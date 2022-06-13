@@ -1,0 +1,1 @@
+export {Compagny} from './FooterCompany';

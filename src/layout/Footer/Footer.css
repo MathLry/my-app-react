@@ -1,0 +1,6 @@
+.FooterLayout {
+    display: flex;
+    flex-direction: row;
+    padding: 4px;
+    justify-content: space-between;
+}
